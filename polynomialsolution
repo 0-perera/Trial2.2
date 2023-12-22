@@ -3,3 +3,4 @@ p
 numerator1 = -b + (b*b-4*a*c) 
 numerator1 = -b + (b*b-4*a*c) 
 numerator2 = -b - (b*b-4*a*c) 
+denominator = 2*a 
