@@ -1,8 +1,1 @@
-p
-"numerator1 = -b + (b*b-4*a*c)" 
-numerator1 = -b + (b*b-4*a*c) 
-numerator1 = -b + (b*b-4*a*c) 
-numerator2 = -b - (b*b-4*a*c) 
-denominator = 2*a 
-result1 = numerator1/ denominator 
-result2 = numerator2/ denominator 
+"Demostration of Branches" 
