@@ -1,0 +1,4 @@
+# the polynomial is given as ax^2 + bx + c = 0
+
+a,b,c = 3,2,5
+
